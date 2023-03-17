@@ -11,6 +11,6 @@ public class Operadores {
         String primeiroNome = "Anderson";
         String segundoNome = "Alves";
         System.out.println(primeiroNome + " " + segundoNome);
-    }
-    
+        System.out.println(soma + "\n"+ subtracao + "\n" + multiplicacao + "\n"+ divisao + "\n"+ modulo + "\n"+ resultado );
+    }     
 }
