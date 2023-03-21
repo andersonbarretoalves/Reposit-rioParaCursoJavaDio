@@ -1,4 +1,4 @@
-package edu.anderson.operadores;
+package edu.anderson.operadores.OperadorTernario;
 
 public class OperadorTernario {
     public static void main (String [] args) {

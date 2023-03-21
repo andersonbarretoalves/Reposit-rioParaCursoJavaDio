@@ -1,4 +1,4 @@
-package edu.anderson.operadores;
+package edu.anderson.operadores.OperadoresRelacionais;
 
 public class OperadoresRelacionais {
 

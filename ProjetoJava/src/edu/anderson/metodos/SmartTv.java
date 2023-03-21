@@ -1,4 +1,4 @@
-public package edu.anderson.metodos;
+package edu.anderson.metodos;
 
 class SmartTv {
         boolean ligada = false;
