@@ -1,6 +1,6 @@
 package edu.anderson.operadores;
 
-public class operadoresRelacionais {
+public class OperadoresRelacionais {
 
     public static void main (String[] args) {
 

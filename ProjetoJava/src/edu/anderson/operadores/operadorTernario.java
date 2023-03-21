@@ -1,6 +1,6 @@
 package edu.anderson.operadores;
 
-public class operadorTernario {
+public class OperadorTernario {
     public static void main (String [] args) {
         int a, b;
 

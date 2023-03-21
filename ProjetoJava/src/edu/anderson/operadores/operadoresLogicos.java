@@ -1,6 +1,6 @@
 package edu.anderson.operadores;
 
-public class operadoresLogicos {
+public class OperadoresLogicos {
     public static void main (String[] args){
         boolean condicao1 = true;
         boolean condicao2 = false;
