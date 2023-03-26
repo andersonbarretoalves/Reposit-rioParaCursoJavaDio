@@ -1,5 +1,3 @@
-package edu.anderson.tiposEVariaveis;
-
 public class TiposVariaveis {
     public static void main (String[] args) {
 
@@ -14,5 +12,4 @@ public class TiposVariaveis {
         System.out.println("O Valor do Segundo numero curto é: " + numeroCurto2);
         System.out.println("O número de PI é: " + VALOR_DE_PI);
     }
-    
 }
