@@ -1,5 +1,3 @@
-package edu.anderson.operadores.OperadoresRelacionais;
-
 public class OperadoresRelacionais {
 
     public static void main (String[] args) {
