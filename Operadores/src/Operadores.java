@@ -1,5 +1,3 @@
-package edu.anderson.operadores.Operadores;
-
 public class Operadores {
     public static void main (String[] args) {
         double soma = 10.5 + 15.7; // adição quando usado em texto (String) é feito a concatenação Ex: "nome" + "sobrenome".
