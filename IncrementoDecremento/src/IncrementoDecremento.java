@@ -1,5 +1,3 @@
-package edu.anderson.operadores.IncrementoDecremento;
-
 public class IncrementoDecremento {
 
     public static void main (String[] args) {
